@@ -1,0 +1,17 @@
+
+{
+  "name": "Sovergian Trust Open Protocol",
+  "symbol": "STOP",
+  "description": "The Virginia Standard: A protocol for sovereign trust and foundational asset management.",
+  "image": "https://github.com/Stkelli7/STOP-Metadata”
+  "attributes": [
+    {
+      "trait_type": "Standard",
+      "value": "Virginia"
+    },
+    {
+      "trait_type": "Infrastructure",
+      "value": "Geo Grid Verified"
+    }
+  ]
+}
